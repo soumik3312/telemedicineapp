@@ -517,7 +517,3 @@ class _BookAppointmentScreenState extends State<BookAppointmentScreen> {
     );
   }
 }
-
-class AppointmentSuccessScreen {
-  const AppointmentSuccessScreen();
-}
