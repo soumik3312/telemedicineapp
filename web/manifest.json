@@ -1,6 +1,6 @@
 {
-    "name": "telemedicine_app",
-    "short_name": "telemedicine_app",
+    "name": "telemedicine_application",
+    "short_name": "telemedicine_application",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
