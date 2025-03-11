@@ -22,7 +22,7 @@ _(Add some screenshots of your app UI here)_
 ## 🏗️ Installation
 1. Clone this repository:
    ```bash
-   git clone https:
+   git clone https://github.com/soumik3312/telemedicineapp.git
    ```
 2. Navigate to the project folder:
    ```bash
@@ -44,5 +44,5 @@ Feel free to contribute to this project! You can submit a pull request or report
 This project is licensed under the **MIT License**.
 
 ## 📧 Contact
-For any queries, reach out to me at [your-email@example.com] or connect with me on [LinkedIn](https://www.linkedin.com/in/yourprofile).
+For any queries, reach out to me at [your-email@example.com] or connect with me on [LinkedIn](https://www.linkedin.com/in/soumik-chaudhuri-0bb4b72a8/).
 
