@@ -22,7 +22,7 @@ _(Add some screenshots of your app UI here)_
 ## 🏗️ Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/telemedicine-app.git
+   git clone https:
    ```
 2. Navigate to the project folder:
    ```bash
