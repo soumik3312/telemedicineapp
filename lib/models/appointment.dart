@@ -13,6 +13,5 @@ class Appointment {
     required this.dateTime,
     required this.reason,
     required this.isVideoCall,
-    
   });
 }
